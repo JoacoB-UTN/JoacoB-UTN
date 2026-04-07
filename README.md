@@ -1,5 +1,3 @@
-div align="center">
-
 [![GitHub Followers](https://img.shields.io/github/followers/JoacoB-UTN?label=Follow&style=social)](https://github.com/JoacoB-UTN)
 [![GitHub Stars](https://img.shields.io/github/stars/JoacoB-UTN?style=social)](https://github.com/JoacoB-UTN)
 
