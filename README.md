@@ -29,7 +29,7 @@ I build software that solves real-world problems — focused on scalability, eff
 
 | Web & Frontend | Programming & Tools |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,sass,react"/> | <img src="https://skillicons.dev/icons?i=c,py,bash,git,github"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,react"/> | <img src="https://skillicons.dev/icons?i=nodejs,c,py,bash,git,github"/> |
 
 </div>
 
