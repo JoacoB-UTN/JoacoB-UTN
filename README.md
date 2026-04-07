@@ -1,9 +1,13 @@
+<div align="center">
+
 [![GitHub Followers](https://img.shields.io/github/followers/JoacoB-UTN?label=Follow&style=social)](https://github.com/JoacoB-UTN)
 [![GitHub Stars](https://img.shields.io/github/stars/JoacoB-UTN?style=social)](https://github.com/JoacoB-UTN)
 
 </div>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="lo-fi coding gif"/>
+<div align="center">
+<img src="https://media.giphy.com/media/mXpFZCVJeYTXW/giphy.gif" width="380" alt="gif"/>
+</div>
 
 ---
 
